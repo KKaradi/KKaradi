@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Check out my [Portfolio](https://kkaradi.github.io/projects.html) to see full write ups and pictures for all my projects
+Check out my [Portfolio](https://kkaradi.github.io/projects.html) to see full write ups and demos for all my projects
 
 <!-- # Projects
 
