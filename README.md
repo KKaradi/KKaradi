@@ -5,6 +5,7 @@ I'm Kai Karadi, a passionate computer engineering student interested in the inte
 
 Check out my **[Portfolio](https://kkaradi.github.io/projects.html)** to see full write ups and demos for all my projects
 
+Also check out some articles that the National Center for Supercomputing Applications wrote about me [here](https://www.ncsa.illinois.edu/students-teaching-computers/)
 <!-- # Projects
 
 ## Hardware
